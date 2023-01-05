@@ -11,4 +11,4 @@ or <br/>
 
 # [Update packages](https://docs.npmjs.com/cli/v8/commands/npm-update)
 `npm outdated` <br/>
-`npm update --save/--save-dev` <br/>
+`npm update` <br/>

@@ -8,3 +8,6 @@
 `npx create-next-app -e https://github.com/AlchemyPot/template1 .` <br/>
 or <br/>
 `npx create-next-app -e https://github.com/AlchemyPot/template1`
+
+# Update packages
+`npm update --save/--save-dev` <br/>
